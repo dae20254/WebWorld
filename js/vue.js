@@ -11996,6 +11996,11 @@
   /**
    * Get outerHTML of elements, taking care
    * of SVG elements in IE as well.
+   * 
+   * asdf
+   * asd
+   * fas
+   * dfsadf
    */
   function getOuterHTML (el) {
     if (el.outerHTML) {
@@ -12010,7 +12015,7 @@
   Vue.compile = compileToFunctions;
 
 
-  
+
   return Vue;
 
 }));
