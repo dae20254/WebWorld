@@ -12009,6 +12009,8 @@
 
   Vue.compile = compileToFunctions;
 
+
+  
   return Vue;
 
 }));
